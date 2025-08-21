@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Ahmed  
+# 👋 Hi there, I’m Ahmed  
 
 My name is **Ahmed Abbasi**. I recently graduated with a **B.S. in Management Information Systems** from Minnesota State University, Mankato.  
 
